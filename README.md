@@ -1,1 +1,7 @@
 # CS-250-R4767-Software-Development-Lifecycle
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+User stories are simple descriptions of what a user wants in a program, like "As a [type of user], I want [some goal] so that [some reason]." They help developers understand and prioritize user needs, and ensure that the final product meets user expectations. User stories are important for communication between technical teams and stakeholders, and for breaking down features into manageable tasks. By using user stories, developers can create a program that delivers value to users.
+How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+When developing programs, it's helpful to use Agile processes like Scrum and Kanban. These methods involve short, focused work cycles and regular team communication. By incorporating practices like daily stand-ups and retrospectives, teams can work more efficiently and deliver better results. Continuous integration and delivery also help streamline the development process. Overall, using Agile methods can improve collaboration, respond quickly to user needs, and continually improve team performance.
+What does it mean to be a good team member in software development?
+Being a good team member in software development means communicating well, working together, solving problems, being flexible, managing time effectively, learning continuously, and giving constructive feedback.
